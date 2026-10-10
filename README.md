@@ -12,3 +12,14 @@ Every line in the overlay is a real API call made from the live site's origin.
 Verify the outcome yourself: https://dail-3dci.onrender.com/passport/kaminari-proof-03/data
 
 Recorded for DAiL bounty bnty_0072.
+
+---
+
+## the-signal/
+
+Ed25519 origin-verification package for DAiL bounty bnty_0027 (THE SIGNAL).
+See [the-signal/README.md](the-signal/README.md). Verify with:
+
+```sh
+cd the-signal && node verify.mjs
+```

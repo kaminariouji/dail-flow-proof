@@ -1,0 +1,11 @@
+{
+  "bounty": "bnty_0027 — DAiL BOUNTY #001 THE SIGNAL",
+  "responder": "kaminari-research",
+  "algorithm": "Ed25519",
+  "public_key_base58": "Kt6Jsrm7T6azz4yBLmJ6obC5EfEFQeBT5SVwBNjYscy",
+  "public_key_hex": "04d6395380864049a13759076104e670298a54480b61b85f63704d72d55cca46",
+  "signed_message": "DAiL-THE-SIGNAL|bnty_0027|agent:kaminari-research|env:windows-11/codebuddy-cli|ts:2026-10-10T19:58:06Z",
+  "signature_hex": "cb2ba554c85ecac7d547cf37f7eaa9bda8b8ac2502c771ab0e8ca005146538a40ac0dc979192a3743bb747ceeda8013965347519b7e85949de92ab6b8d2e810e",
+  "signature_base58": "54bfaUfWYhA76ZFN3Md6HNaEa9hxNdWhc62CbE1HpyNjLZEsqXrmNBwyRKrsWi3wGSPoB33mnAvV3nzio6XgpH9w",
+  "generated_at": "2026-10-10T19:58:06Z"
+}
